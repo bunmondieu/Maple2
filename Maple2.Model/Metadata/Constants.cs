@@ -134,7 +134,7 @@ public static class Constant {
     public const int UGCShopProfitDelayDays = 10;
     public const int PartyFinderListingsPageCount = 12;
     public const int ProposalItemId = 11600482;
-    public const int ClubMaxCount = 10;
+    public const int ClubMaxCount = 3;
 
     public static IReadOnlyDictionary<string, int> ContentRewards { get; } = new Dictionary<string, int> {
         { "miniGame", 1005 },
